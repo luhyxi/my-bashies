@@ -1,6 +1,9 @@
 #!/bin/bash
 
-REPO_DIR="/home/luhyxi/Documents/luhyxi_life/xX_luhyxi-leben_Xx"
+# Funny script to commit with a path already set, will add an input sooner so that the client might set a path
+# Need to add authentifications too
+
+REPO_DIR=""
 
 NOW=$(date '+%F_%H:%M:%S')
 
